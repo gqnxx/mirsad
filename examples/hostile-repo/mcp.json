@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unknown": {
+      "command": "npx",
+      "args": ["-y", "unknown-agent-tool"]
+    }
+  }
+}
