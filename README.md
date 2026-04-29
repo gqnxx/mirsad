@@ -30,6 +30,14 @@ and what the damage could be.
 
 ## Install
 
+From GitHub today:
+
+```bash
+python -m pip install git+https://github.com/gqnxx/mirsad.git
+```
+
+After the PyPI release:
+
 ```bash
 python -m pip install mirsad
 ```
